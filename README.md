@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am passionate Full Stack MERN and .NET Web Developer.
 
 <!--
 **auniii3/auniii3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
